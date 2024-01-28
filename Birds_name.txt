@@ -5,3 +5,6 @@ Hummingbird
 Penguin
 Owl
 Toucan
+chicken
+duck
+canary
