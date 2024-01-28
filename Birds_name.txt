@@ -1,0 +1,7 @@
+Names of six birds:
+Sparrow
+Eagle
+Hummingbird
+Penguin
+Owl
+Toucan
